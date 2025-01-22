@@ -1,0 +1,5 @@
+         Node
+    value     next
+    1         null
+
+    
