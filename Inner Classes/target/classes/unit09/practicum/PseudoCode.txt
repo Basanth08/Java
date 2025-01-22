@@ -1,0 +1,29 @@
+Greedy algorithm for selecting the courses to maximize the number of courses taken.
+
+PseudoCode:
+1.Sort the courses by end time in ascending order
+2.Initialize an empty list to store the selected courses
+3.Select the first course (with the earliest end time) and add it to the list
+4.Iterate through the remaining courses:
+    - If the current course's start time is greater than or equal to the end time of the last selected course:
+    - Add the current course to the list of selected courses\
+5.Return the list of selected courses
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     
