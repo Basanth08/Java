@@ -127,7 +127,7 @@ public class ThreadSafeQueue<T> {
 
 ```bash
 # Clone the repository
-git clone https://github.com/[your-username]/Java-Programming-Portfolio.git
+git clone https://github.com/Basanth08/Java-Programming-Portfolio.git
 
 # Navigate to maven project
 cd javamavensetup
