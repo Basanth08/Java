@@ -1,0 +1,25 @@
+SWB GAME, Space_battles, ship, name, hull, damage, shields, recharge_time,
+Armament, weapon_time, color, type
+simulate, sustain, destruction, recharge, deplete, deal damage
+SWB game:{
+    ships
+    simulate_battle
+}
+    
+Ship{
+    name
+    hull
+    shields
+    armements
+    sustain_damage()
+    deplete_shields()
+    recharge()
+}
+
+Armament{
+    name
+    damageAmount
+    color 
+    type
+    dealDamage()
+}

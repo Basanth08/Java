@@ -1,0 +1,43 @@
+Nouns:
+    Candidate
+    Name
+    Party
+    Position
+    Mayor
+    Sheriff
+    Judge
+    Assembly Member
+    Political affiliation/Endorsement.
+
+Verb analysis:
+    Identify
+    Run
+    Endorse
+    be considered the same
+    printable
+
+Classes:
+    name
+    Position
+    Endorsements
+
+Enums:
+    Position:
+        Mayor
+        SHERIFF 
+        JUDGE 
+        ASSEMBLY_MEMBER
+    Party:
+        REPUBLICIAN
+        DEMOCRAT
+        INDEPENDENT 
+        LIBERTARIAN
+        WORKING FAMILY
+
+Position:
+    - toString
+
+Party:
+    - toString
+
+

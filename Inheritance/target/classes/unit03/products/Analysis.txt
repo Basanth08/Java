@@ -1,0 +1,14 @@
+Nouns:
+    product
+    name
+    product Code
+    msrp
+    Truck
+    Capacity
+    Factory
+    Complex
+
+Verbs:
+    load
+    unload
+    manufacture
