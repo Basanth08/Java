@@ -1,0 +1,15 @@
+What happens when you change the amount of time that the turnip dropper waits between drops? 
+What if you reduce it to 0? Why do you think that is?
+
+One benefit of decreasing the duration is that the programme operates more quickly overall
+because we don't have to wait for the turnips to drop each time. Second, the goats start to 
+distribute turnips in a more uniform manner. This could be because there is no longer
+any delay, so all of the goats are attempting to get to the turnips at the same moment, 
+which prevents the synchronisation effect from happening.
+
+What happens if you change the number of turnips that are dropped at a time to a higher number, e.g. 5 or 10? 
+Why do you think that is?
+
+Since the same goat will consume all the turnips until it is empty, there is a greater likelihood that it will
+consume every turnip. This implies that there will be fewer opportunities for the other goats to unblock
+themselves in between turnip drop iterations.
